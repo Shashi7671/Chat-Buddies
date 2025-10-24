@@ -16,7 +16,7 @@ const ProfilePage = () => {
         e.preventDefault();
         if (!selectedImg) {
           await updateProfile({fullName: name, bio});
-          navigate('/')
+          navigate('/');
           return;
         }
         const reader = new  FileReader();
@@ -50,7 +50,7 @@ const ProfilePage = () => {
             <button type='submit' className='bg-gradient-to-r from-purple-400 to-violet-600 text-white p-2 rounded-full text-lg 
             cursor-pointer'>Save</button>
         </form>
-        <img src={assets.logo_icon} className={`max-w-44 aspect-square rounded-full mx-10 max-sm:mt-10 $ {selectedImg && 'rounded-full'}`} alt="" />
+        <img src={assets.logo_icon} className={`max-w-44 aspect-square rounded-full mx-10 max-sm:mt-10 ${selectedImg && 'rounded-full'}`} alt="" />
       </div>
     </div>
   )
