@@ -2,6 +2,10 @@
 
 A comprehensive, real-time online chatting application designed to connect users instantly across the globe. This project features a robust backend for handling user authentication and data, and a dynamic frontend for a seamless chat experience.
 
+
+<img src="C:\Users\BORRA\OneDrive\Pictures\Screenshots\Chat-Buddies.png" alt="The page which appears when user opens the site." width="600"/>
+
+
 ---
 
 ## ✨ Features
