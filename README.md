@@ -112,6 +112,12 @@ Once both the server and client are running:
 
 ---
 
+##  💾 Website Link
+
+Website Link : [https://chat-buddies-eight.vercel.app/](https://chat-buddies-eight.vercel.app/)
+
+---
+
 ## 🧑‍💻 Contributing
 
 If you wish to contribute, please follow these steps:
@@ -133,5 +139,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information (if app
 
 Shashi7671 - 
 
-Git Profile Link : [https://github.com/Shashi7671](https://github.com/Shashi7671).
-Git Project Link : [https://github.com/Shashi7671/Chat-Buddies](https://github.com/Shashi7671/Chat-Buddies)
+Git Profile Link : [https://github.com/Shashi7671](https://github.com/Shashi7671)  
+Git Project Link : [https://github.com/Shashi7671/Chat-Buddies](https://github.com/Shashi7671/Chat-Buddies)  
+Instagram Profile Link : [https://www.instagram.com/shashi_ram_uzumaki/](https://www.instagram.com/shashi_ram_uzumaki/)    
+Linkdin Link : [https://www.linkedin.com/in/shashiram-goud-174380385/](https://www.linkedin.com/in/shashiram-goud-174380385/)
