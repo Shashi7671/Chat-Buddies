@@ -131,6 +131,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information (if app
 
 ## 📧 Contact
 
-Shashi7671 - [Your Email/GitHub Profile Link]
+Shashi7671 - 
 
-Project Link: [https://github.com/Shashi7671/Chat-Buddies](https://github.com/Shashi7671/Chat-Buddies)
+Git Profile Link : [https://github.com/Shashi7671](https://github.com/Shashi7671).
+Git Project Link : [https://github.com/Shashi7671/Chat-Buddies](https://github.com/Shashi7671/Chat-Buddies)
